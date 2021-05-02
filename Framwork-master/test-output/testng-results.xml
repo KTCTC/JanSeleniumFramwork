@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27206" started-at="2021-05-02T14:21:02 IST" finished-at="2021-05-02T14:21:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27206" started-at="2021-05-02T14:21:02 IST" finished-at="2021-05-02T14:21:29 IST">
+      <class name="KTCTC.regression.WebTablesTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="beforeSuite" is-config="true" duration-ms="123" started-at="2021-05-02T14:21:02 IST" finished-at="2021-05-02T14:21:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClassOfA()[pri:0, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="beforeClassOfA" is-config="true" duration-ms="8336" started-at="2021-05-02T14:21:02 IST" finished-at="2021-05-02T14:21:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassOfA -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="beforeMethod" is-config="true" duration-ms="15" started-at="2021-05-02T14:21:11 IST" finished-at="2021-05-02T14:21:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void KTCTC.regression.WebTablesTest.verfiyNavigationToWebTablePageAndInitialiseData()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verfiyNavigationToWebTablePageAndInitialiseData()[pri:0, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="verfiyNavigationToWebTablePageAndInitialiseData" duration-ms="326" started-at="2021-05-02T14:21:11 IST" finished-at="2021-05-02T14:21:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiyNavigationToWebTablePageAndInitialiseData -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-05-02T14:21:11 IST" finished-at="2021-05-02T14:21:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verfiyNavigationToWebTablePageAndInitialiseData status=SUCCESS method=WebTablesTest.verfiyNavigationToWebTablePageAndInitialiseData()[pri:0, instance:KTCTC.regression.WebTablesTest@462d5aee] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-05-02T14:21:11 IST" finished-at="2021-05-02T14:21:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void KTCTC.regression.WebTablesTest.verifyNewUserCanBeAddedOnWebTablePage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyNewUserCanBeAddedOnWebTablePage()[pri:1, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="verifyNewUserCanBeAddedOnWebTablePage" duration-ms="2801" started-at="2021-05-02T14:21:11 IST" finished-at="2021-05-02T14:21:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewUserCanBeAddedOnWebTablePage -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-05-02T14:21:14 IST" finished-at="2021-05-02T14:21:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyNewUserCanBeAddedOnWebTablePage status=SUCCESS method=WebTablesTest.verifyNewUserCanBeAddedOnWebTablePage()[pri:1, instance:KTCTC.regression.WebTablesTest@462d5aee] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="beforeMethod" is-config="true" duration-ms="4" started-at="2021-05-02T14:21:14 IST" finished-at="2021-05-02T14:21:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void KTCTC.regression.WebTablesTest.verifyAllDetailsOfAddedUser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyAllDetailsOfAddedUser()[pri:2, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="verifyAllDetailsOfAddedUser" duration-ms="595" started-at="2021-05-02T14:21:14 IST" finished-at="2021-05-02T14:21:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAllDetailsOfAddedUser -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="afterMethod" is-config="true" duration-ms="2" started-at="2021-05-02T14:21:14 IST" finished-at="2021-05-02T14:21:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyAllDetailsOfAddedUser status=SUCCESS method=WebTablesTest.verifyAllDetailsOfAddedUser()[pri:2, instance:KTCTC.regression.WebTablesTest@462d5aee] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2021-05-02T14:21:14 IST" finished-at="2021-05-02T14:21:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void KTCTC.regression.WebTablesTest.verifyExistingUserDetailsCanBeEditedOnWebTablePage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyExistingUserDetailsCanBeEditedOnWebTablePage()[pri:3, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="verifyExistingUserDetailsCanBeEditedOnWebTablePage" duration-ms="2814" started-at="2021-05-02T14:21:14 IST" finished-at="2021-05-02T14:21:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyExistingUserDetailsCanBeEditedOnWebTablePage -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="afterMethod" is-config="true" duration-ms="2" started-at="2021-05-02T14:21:17 IST" finished-at="2021-05-02T14:21:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyExistingUserDetailsCanBeEditedOnWebTablePage status=SUCCESS method=WebTablesTest.verifyExistingUserDetailsCanBeEditedOnWebTablePage()[pri:3, instance:KTCTC.regression.WebTablesTest@462d5aee] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-05-02T14:21:17 IST" finished-at="2021-05-02T14:21:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void KTCTC.regression.WebTablesTest.verifyAllDetailsOfEditedUser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyAllDetailsOfEditedUser()[pri:4, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="verifyAllDetailsOfEditedUser" duration-ms="503" started-at="2021-05-02T14:21:17 IST" finished-at="2021-05-02T14:21:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAllDetailsOfEditedUser -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-05-02T14:21:18 IST" finished-at="2021-05-02T14:21:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyAllDetailsOfEditedUser status=SUCCESS method=WebTablesTest.verifyAllDetailsOfEditedUser()[pri:4, instance:KTCTC.regression.WebTablesTest@462d5aee] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-05-02T14:21:18 IST" finished-at="2021-05-02T14:21:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void KTCTC.regression.WebTablesTest.verifyExistingUserCanBeDeletedOnWebTablePage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyExistingUserCanBeDeletedOnWebTablePage()[pri:5, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="verifyExistingUserCanBeDeletedOnWebTablePage" duration-ms="10752" started-at="2021-05-02T14:21:18 IST" finished-at="2021-05-02T14:21:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyExistingUserCanBeDeletedOnWebTablePage -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="afterMethod" is-config="true" duration-ms="3" started-at="2021-05-02T14:21:28 IST" finished-at="2021-05-02T14:21:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyExistingUserCanBeDeletedOnWebTablePage status=SUCCESS method=WebTablesTest.verifyExistingUserCanBeDeletedOnWebTablePage()[pri:5, instance:KTCTC.regression.WebTablesTest@462d5aee] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="afterClass" is-config="true" duration-ms="984" started-at="2021-05-02T14:21:28 IST" finished-at="2021-05-02T14:21:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterSuiteMethod()[pri:0, instance:KTCTC.regression.WebTablesTest@462d5aee]" name="afterSuiteMethod" is-config="true" duration-ms="329" started-at="2021-05-02T14:21:29 IST" finished-at="2021-05-02T14:21:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteMethod -->
+      </class> <!-- KTCTC.regression.WebTablesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
